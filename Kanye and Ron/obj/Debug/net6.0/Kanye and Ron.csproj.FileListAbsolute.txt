@@ -1,0 +1,17 @@
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\bin\Debug\net6.0\Kanye and Ron.exe
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\bin\Debug\net6.0\Kanye and Ron.deps.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\bin\Debug\net6.0\Kanye and Ron.runtimeconfig.json
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\bin\Debug\net6.0\Kanye and Ron.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\bin\Debug\net6.0\Kanye and Ron.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.csproj.AssemblyReference.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.AssemblyInfoInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.AssemblyInfo.cs
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.csproj.CoreCompileInputs.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.csproj.CopyComplete
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\refint\Kanye and Ron.dll
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.pdb
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\Kanye and Ron.genruntimeconfig.cache
+C:\Users\fergu\OneDrive\Desktop\Repos\Kanye and Ron\Kanye and Ron\obj\Debug\net6.0\ref\Kanye and Ron.dll

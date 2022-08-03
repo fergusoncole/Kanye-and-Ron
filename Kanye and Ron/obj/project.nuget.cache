@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ZhjJtAtMMfNbQu5krhw0C9snGW65uItEeMW0MftC80+k3nyS0+C4wZqbtNSc0Z7LOu/4YkY02HqiimD/GLfUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fergu\\OneDrive\\Desktop\\Repos\\Kanye and Ron\\Kanye and Ron\\Kanye and Ron.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fergu\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
